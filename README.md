@@ -1,1 +1,4 @@
 # messageboard
+
+>yarn
+>yarn start
