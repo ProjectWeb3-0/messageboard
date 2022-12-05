@@ -1,4 +1,4 @@
 # messageboard
 
->yarn
->yarn start
+#yarn
+#yarn start
